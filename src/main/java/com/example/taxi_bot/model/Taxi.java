@@ -10,7 +10,6 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-
 public class Taxi {
     @Id
     @GeneratedValue
